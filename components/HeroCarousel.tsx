@@ -10,6 +10,7 @@ const heroImages = [
   { imgUrl: "/assets/images/hero-3.svg", alt: "lamp" },
   { imgUrl: "/assets/images/hero-4.svg", alt: "air fryer" },
   { imgUrl: "/assets/images/hero-5.svg", alt: "chair" },
+  { imgUrl: "/assets/images/hero-6.svg", alt: "flat-screen-monitor" },
 ];
 
 const HeroCarousel = () => {
